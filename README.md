@@ -10,3 +10,63 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+# 🎉 Event Management System (EventHub + EventPro)
+
+A full-stack, modern event management system that includes:
+
+- 🧑‍🤝‍🧑 A **public-facing portal** for discovering and exploring events (EventHub)
+- 👩‍💼 A **professional admin dashboard** for managing events, photographers, and analytics (EventPro)
+
+Built with **React**, **Vite**, and a sleek responsive UI.
+
+---
+
+## 🖼️ Screenshots
+
+### 🏠 Home Page – Public Site
+![Home](./home.png)
+
+### 🎨 Event Categories
+![Categories](./catagory.png)
+
+### 💬 User Testimonials
+![Testimonials](./review.png)
+
+### 📅 Event Calendar View
+![Calendar](./shedule%20event.png)
+
+### 🔐 Login & Authentication
+![Login](./login.png)
+
+### 📋 Event Listings (Admin)
+![List Events](./list%20event.png)
+
+### ➕ Add Photographer Modal
+![Add Photographer](./add%20photographer.png)
+
+### 📊 Admin Dashboard Overview
+![Admin Dashboard](./admin%20dashboard.png)
+
+### 🧾 Manage All Sections (Admin)
+![Manage All](./showall.png)
+
+### 🧑‍💼 About Us (Company Info)
+![About](./about.png)
+![About 2](./about2.png)
+
+### 📩 Contact Page (Form)
+![Contact Form](./contact.png)
+
+### 📞 Contact Info Section
+![Contact Info](./contact%20us.png)
+
+---
+
+## 🚀 Getting Started
+
+### 📦 Installation
+
+```bash
+npm install
