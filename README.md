@@ -22,6 +22,106 @@ A full-stack, modern event management system that includes:
 Built with **React**, **Vite**, and a sleek responsive UI.
 
 ---
+# 🎉 Event Management System
+
+An advanced **Event Management System** built with **React**, **PHP RESTful APIs**, and **PostgreSQL**, designed to simplify the process of planning, organizing, and managing events efficiently.
+
+## 🚀 Overview
+
+This system allows users and administrators to manage every aspect of an event — from creation and registration to real-time updates and reporting. The platform provides a responsive, user-friendly interface with secure backend API handling and a powerful PostgreSQL database.
+
+## 🧩 Tech Stack
+
+* **Frontend:** React JS (Vite + Tailwind CSS)
+* **Backend:** PHP (RESTful API)
+* **Database:** PostgreSQL
+* **Hosting:** XAMPP / Localhost (Development)
+* **Version Control:** Git & GitHub
+
+## ⚙️ Features
+
+### 👥 User Side
+
+* Register and log in securely
+* Browse upcoming and past events
+* Register for events and view participation status
+* Receive event updates and notifications
+
+### 🛠️ Admin Side
+
+* Create, edit, and delete events
+* Manage event participants and details
+* Generate event reports (daily/weekly/monthly)
+* Dashboard overview with analytics and activity logs
+
+## 🧠 System Architecture
+
+The frontend communicates with the backend through **PHP-based REST APIs**, which interact with the **PostgreSQL database** for data operations like event creation, registration, and reporting.
+
+```
+React (UI) ⇄ PHP REST API ⇄ PostgreSQL (Database)
+```
+
+## 📂 Folder Structure (Example)
+
+```
+/event-management-system
+│
+├── /frontend       # React app (UI)
+│   ├── src/
+│   ├── public/
+│   └── package.json
+│
+├── /backend        # PHP API
+│   ├── api/
+│   ├── config/
+│   └── index.php
+│
+└── /database       # SQL scripts for PostgreSQL
+    └── event_system.sql
+```
+
+## 💾 Setup Instructions
+
+1. Clone the repository
+
+   ```bash
+   git clone https://github.com/yourusername/event-management-system.git
+   ```
+2. Navigate to the project directory
+
+   ```bash
+   cd event-management-system
+   ```
+3. Set up the backend
+
+   * Import the SQL file into PostgreSQL
+   * Update database credentials in `backend/config/db.php`
+4. Start the React frontend
+
+   ```bash
+   cd frontend
+   npm install
+   npm run dev
+   ```
+
+## 📈 Future Enhancements
+
+* Email and SMS notifications
+* Online payment integration
+* Role-based access control
+* Event feedback and rating system
+
+## 🧑‍💻 Developed By
+
+**Niven Asmitha Liyanage**
+Software Engineering Student | LNBTI |
+📧 [nivenasmitha345@gmail.com](mailto:nivenasmitha345@gmail.com)
+
+---
+
+⭐ *If you like this project, consider giving it a star on GitHub!*
+
 
 ## 🖼️ Screenshots
 
@@ -59,11 +159,3 @@ Built with **React**, **Vite**, and a sleek responsive UI.
 ### 📞 Contact Info Section
 ![Contact Info](src/assets/contactus.png)
 
----
-
-## 🚀 Getting Started
-
-### 📦 Installation
-
-```bash
-npm install
