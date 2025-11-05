@@ -29,13 +29,13 @@ Built with **React**, **Vite**, and a sleek responsive UI.
 ![Home](src/assets/home.png)
 
 ### 🎨 Event Categories
-![Categories](src/assets/home.png)
+![Categories](src/assets/catagory.png)
 
 ### 💬 User Testimonials
-![Testimonials](src/assets/catagory.png)
+![Testimonials](src/assets/showall.png)
 
 ### 📅 Event Calendar View
-![Calendar](src/assets/home.png)
+![Calendar](src/assets/sheduleveent.png)
 
 ### 🔐 Login & Authentication
 ![Login](src/assets/home.png)
