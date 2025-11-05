@@ -44,20 +44,20 @@ Built with **React**, **Vite**, and a sleek responsive UI.
 ![List Events](src/assets/listevent.png)
 
 ### ➕ Add Photographer Modal
-![Add Photographer](addphotographer.png)
+![Add Photographer](src/assets/addphotographer.png)
 
 ### 📊 Admin Dashboard Overview
-![Admin Dashboard](admindashboard.png)
+![Admin Dashboard](src/assets/admindashboard.png)
 
 ### 🧑‍💼 About Us (Company Info)
-![About](./about.png)
-![About 2](./about2.png)
+![About](src/assets/about.png)
+![About 2](src/assets/about2.png)
 
 ### 📩 Contact Page (Form)
-![Contact Form](./contact.png)
+![Contact Form](src/assets/contact.png)
 
 ### 📞 Contact Info Section
-![Contact Info](./contactus.png)
+![Contact Info](src/assets/contactus.png)
 
 ---
 
