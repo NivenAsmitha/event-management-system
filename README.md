@@ -38,19 +38,16 @@ Built with **React**, **Vite**, and a sleek responsive UI.
 ![Calendar](src/assets/sheduleveent.png)
 
 ### 🔐 Login & Authentication
-![Login](src/assets/home.png)
+![Login](src/assets/login.png)
 
 ### 📋 Event Listings (Admin)
-![List Events](src/assets/home.png)
+![List Events](src/assets/listevent.png)
 
 ### ➕ Add Photographer Modal
-![Add Photographer](./add%20photographer.png)
+![Add Photographer](addphotographer.png)
 
 ### 📊 Admin Dashboard Overview
-![Admin Dashboard](./admin%20dashboard.png)
-
-### 🧾 Manage All Sections (Admin)
-![Manage All](./showall.png)
+![Admin Dashboard](admindashboard.png)
 
 ### 🧑‍💼 About Us (Company Info)
 ![About](./about.png)
@@ -60,7 +57,7 @@ Built with **React**, **Vite**, and a sleek responsive UI.
 ![Contact Form](./contact.png)
 
 ### 📞 Contact Info Section
-![Contact Info](./contact%20us.png)
+![Contact Info](./contactus.png)
 
 ---
 
