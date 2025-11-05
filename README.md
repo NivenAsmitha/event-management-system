@@ -26,22 +26,22 @@ Built with **React**, **Vite**, and a sleek responsive UI.
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page – Public Site
-![Home](./home.png)
+![Home](src/assets/home.png)
 
 ### 🎨 Event Categories
-![Categories](./catagory.png)
+![Categories](src/assets/home.png)
 
 ### 💬 User Testimonials
-![Testimonials](./review.png)
+![Testimonials](src/assets/home.png)
 
 ### 📅 Event Calendar View
-![Calendar](./shedule%20event.png)
+![Calendar](src/assets/home.png)
 
 ### 🔐 Login & Authentication
-![Login](./login.png)
+![Login](src/assets/home.png)
 
 ### 📋 Event Listings (Admin)
-![List Events](./list%20event.png)
+![List Events](src/assets/home.png)
 
 ### ➕ Add Photographer Modal
 ![Add Photographer](./add%20photographer.png)
