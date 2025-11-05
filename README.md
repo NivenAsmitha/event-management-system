@@ -32,7 +32,7 @@ Built with **React**, **Vite**, and a sleek responsive UI.
 ![Categories](src/assets/home.png)
 
 ### 💬 User Testimonials
-![Testimonials](src/assets/home.png)
+![Testimonials](src/assets/catagory.png)
 
 ### 📅 Event Calendar View
 ![Calendar](src/assets/home.png)
