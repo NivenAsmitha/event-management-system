@@ -21,9 +21,6 @@ A full-stack, modern event management system that includes:
 
 Built with **React**, **Vite**, and a sleek responsive UI.
 
----
-# 🎉 Event Management System
-
 An advanced **Event Management System** built with **React**, **PHP RESTful APIs**, and **PostgreSQL**, designed to simplify the process of planning, organizing, and managing events efficiently.
 
 ## 🚀 Overview
