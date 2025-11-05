@@ -47,7 +47,7 @@ Built with **React**, **Vite**, and a sleek responsive UI.
 ![Add Photographer](src/assets/addphotographer.png)
 
 ### 📊 Admin Dashboard Overview
-![Admin Dashboard](src/assets/admindashboard.png)
+![Admin Dashboard](src/assets/admin dashboard.png)
 
 ### 🧑‍💼 About Us (Company Info)
 ![About](src/assets/about.png)
